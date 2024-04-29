@@ -1,2 +1,2 @@
 # svelte-examples
-svelte examples
+learning svelte
